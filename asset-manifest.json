@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/mpitweb/static/css/main.97ceb2c7.chunk.css",
+    "main.js": "/mpitweb/static/js/main.15debbe1.chunk.js",
+    "main.js.map": "/mpitweb/static/js/main.15debbe1.chunk.js.map",
+    "runtime-main.js": "/mpitweb/static/js/runtime-main.3152389d.js",
+    "runtime-main.js.map": "/mpitweb/static/js/runtime-main.3152389d.js.map",
+    "static/js/2.b2c0f334.chunk.js": "/mpitweb/static/js/2.b2c0f334.chunk.js",
+    "static/js/2.b2c0f334.chunk.js.map": "/mpitweb/static/js/2.b2c0f334.chunk.js.map",
+    "static/js/3.f44c5aa4.chunk.js": "/mpitweb/static/js/3.f44c5aa4.chunk.js",
+    "static/js/3.f44c5aa4.chunk.js.map": "/mpitweb/static/js/3.f44c5aa4.chunk.js.map",
+    "index.html": "/mpitweb/index.html",
+    "static/css/main.97ceb2c7.chunk.css.map": "/mpitweb/static/css/main.97ceb2c7.chunk.css.map",
+    "static/js/2.b2c0f334.chunk.js.LICENSE.txt": "/mpitweb/static/js/2.b2c0f334.chunk.js.LICENSE.txt",
+    "static/media/Site.5f65b8b4.png": "/mpitweb/static/media/Site.5f65b8b4.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3152389d.js",
+    "static/js/2.b2c0f334.chunk.js",
+    "static/css/main.97ceb2c7.chunk.css",
+    "static/js/main.15debbe1.chunk.js"
+  ]
+}
